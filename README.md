@@ -128,7 +128,7 @@ The customizable outer layer enables customers to:
    ![Optimus Hands](<file_000000000d4c61f9aa7906703d301475.png>)  
 
 8. ✅ Feet: Robotic vs Dermis w/ Sensors  
-   ![Optimus Feet](<INSERT-LINK-TO-FEET-IMAGE>)  
+   ![Optimus Feet](<file_00000000f61861f5835edfe4411079a1.png>)  
 
 ---
 
