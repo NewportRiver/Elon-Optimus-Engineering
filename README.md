@@ -113,7 +113,7 @@ The customizable outer layer enables customers to:
    ![Optimus Female](<file_000000001d6061f786e4b64691dc6e36.png>)  
 
 3. ✅ OPTIMUS with Clothing vs Underskin Dermis Comparison  
-   ![Clothing vs Underskin](<INSERT-LINK-TO-CLOTHING-IMAGE>)  
+   ![Clothing vs Underskin](<file_0000000097d061f69f22aab8f24c13e6.png>)  
 
 4. ✅ Side-by-Side: Human Skin vs Robotic Dermis System  
    ![Human vs Optimus Dermis](<INSERT-LINK-TO-IMAGE-4>)  
