@@ -122,7 +122,7 @@ The customizable outer layer enables customers to:
    ![Dermis Cutaway](<INSERT-LINK-TO-IMAGE-LAYERED>)  
 
 7. ✅ Hands: Robotic vs Dermis w/ Nails  
-   ![Optimus Hands](<INSERT-LINK-TO-HANDS-IMAGE>)  
+   ![Optimus Hands](<file_000000000d4c61f9aa7906703d301475.png>)  
 
 8. ✅ Feet: Robotic vs Dermis w/ Sensors  
    ![Optimus Feet](<INSERT-LINK-TO-FEET-IMAGE>)  
