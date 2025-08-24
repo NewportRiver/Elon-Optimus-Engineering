@@ -31,8 +31,8 @@ We modeled the dermis system after the human integumentary system using educatio
 ![Optimus Female Skin](<file_000000001d6061f786e4b64691dc6e36.png>)
 ![Optimus Female Cloths](<file_00000000220061f78f8cfc753f456a2a.png>)
 
-📷 Mechanical layer concept cutaway  
-![Dermis Cutaway](<INSERT-LINK-TO-IMAGE-LAYERED>)  
+📷 Hand Concept
+![Hands](<file_000000000d4c61f9aa7906703d301475.png>) 
 
 ---
 
