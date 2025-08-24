@@ -64,7 +64,7 @@ The customizable outer layer enables customers to:
 
 **Visual References:**  
 📷 “Optimus with Elon-inspired Avatar”  
-![Elon Avatar](<INSERT-LINK-TO-ELON-IMAGE>)  
+![Elon Avatar](<file_00000000761061fd9661ecba25a416dc.png>)  
 
 📷 “Optimus with customizable clothing overlays”  
 ![Optimus Clothing](<file_0000000097d061f69f22aab8f24c13e6.png>)  
@@ -120,7 +120,7 @@ The customizable outer layer enables customers to:
    ![Human vs Optimus Dermis](<file_00000000883861f997628bb3069a0d09.png>)  
 
 5. ✅ Elon-inspired Optimus Variant  
-   ![Elon Avatar](<INSERT-LINK-TO-ELON-IMAGE>)  
+   ![Elon Avatar](<file_00000000761061fd9661ecba25a416dc.png>)  
 
 6. ✅ Technical cutaway concept (robotic dermis layers)  
    ![Dermis Cutaway](<file_00000000975861f8bbebc24a82e8a4e0.png>)  
