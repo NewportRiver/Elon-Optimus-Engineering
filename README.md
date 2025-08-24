@@ -116,7 +116,7 @@ The customizable outer layer enables customers to:
    ![Clothing vs Underskin](<file_0000000097d061f69f22aab8f24c13e6.png>)  
 
 4. ✅ Side-by-Side: Human Skin vs Robotic Dermis System  
-   ![Human vs Optimus Dermis](<INSERT-LINK-TO-IMAGE-4>)  
+   ![Human vs Optimus Dermis](<file_00000000883861f997628bb3069a0d09.png>)  
 
 5. ✅ Elon-inspired Optimus Variant  
    ![Elon Avatar](<INSERT-LINK-TO-ELON-IMAGE>)  
