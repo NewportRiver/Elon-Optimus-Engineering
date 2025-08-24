@@ -26,7 +26,7 @@ We modeled the dermis system after the human integumentary system using educatio
 
 📷 "Optimus with Dermis" full-body 3D illustrations  
 ![Optimus Male Skin](<file_000000002c5861f79a99c0b413fb516e (1).png>)  
-![Optimus Male Cloths](<male.png>)  
+![Optimus Male Cloths](<Male.png>)  
 
 ![Optimus Female Skin](<file_000000001d6061f786e4b64691dc6e36.png>)
 ![Optimus Female Cloths](<file_00000000220061f78f8cfc753f456a2a.png>)
