@@ -1,0 +1,80 @@
+Concept formulas
+
+Let
+
+ = number of GPUs (here )
+
+ = perf per GPU (FLOP/s)
+
+ = assumed human-brain perf (FLOP/s)
+
+ = power per GPU (W)
+
+ = power per brain (≈ 20 W)
+
+
+How many brains?
+
+N_{brains} \;=\; \frac{N_{g}\cdot P_{g}}{P_{b}}
+
+Power difference:
+
+\Delta \text{Power} \;=\; N_{g}\cdot W_{g}\;-\;N_{brains}\cdot W_{b}
+
+
+---
+
+Plugging in reasonable numbers (two bookends)
+
+GPU performance & power (H100):
+
+FP16 (Tensor Core) ≈ 1.98 PFLOP/s (SXM) or 1.51 PFLOP/s (PCIe). 
+
+Power: ~700 W (SXM5) or ~350 W (PCIe). 
+
+
+Brain assumptions:
+
+Energy: ~20 W per human brain. 
+
+Compute equivalents debated; use a range: 10¹⁵–10¹⁸ FLOP/s per brain. 
+
+
+Case A — SXM H100 (1.98 PFLOP/s, 700 W)
+
+Total GPU perf:  FLOP/s.
+
+If :  (≈ 990 million brains).
+
+Power: GPUs ≈ 350 GW; brains ≈ 19.8 GW → Δ ≈ +330 GW for GPUs.
+
+
+If :  (≈ 990 k brains).
+
+Power: GPUs ≈ 350 GW; brains ≈ 19.8 MW → Δ ≈ +349.98 GW for GPUs.
+
+
+
+Case B — PCIe H100 (1.51 PFLOP/s, 350 W)
+
+Total GPU perf:  FLOP/s.
+
+If :  (≈ 756.5 million).
+
+Power: GPUs ≈ 175 GW; brains ≈ 15.1 GW → Δ ≈ +159.9 GW.
+
+
+If :  (≈ 756.5 k).
+
+Power: GPUs ≈ 175 GW; brains ≈ 15.1 MW → Δ ≈ +174.98 GW.
+
+
+
+
+---
+
+Takeaways
+
+Depending on what you assume for “brain FLOPS,” matching 500 M H100s is on the order of ~10⁶ to ~10⁹ human brains. 
+
+Power gap is colossal: hundreds of gigawatts for the GPUs vs megawatts to tens of gigawatts for the equivalent number of brains. 
