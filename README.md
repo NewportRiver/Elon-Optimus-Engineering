@@ -63,7 +63,7 @@ The customizable outer layer enables customers to:
 ![Elon Avatar](<INSERT-LINK-TO-ELON-IMAGE>)  
 
 📷 “Optimus with customizable clothing overlays”  
-![Optimus Clothing](<INSERT-LINK-TO-CLOTHING-IMAGE>)  
+![Optimus Clothing](<file_0000000097d061f69f22aab8f24c13e6.png>)  
 
 ---
 
