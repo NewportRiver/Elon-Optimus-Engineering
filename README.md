@@ -33,6 +33,8 @@ We modeled the dermis system after the human integumentary system using educatio
 
 ![Hands](<file_000000000d4c61f9aa7906703d301475.png>) 
 
+![Skin](<file_00000000975861f8bbebc24a82e8a4e0.png>) 
+
 ---
 
 ## 🧱 2. Engineering Layer Stack
@@ -121,7 +123,7 @@ The customizable outer layer enables customers to:
    ![Elon Avatar](<INSERT-LINK-TO-ELON-IMAGE>)  
 
 6. ✅ Technical cutaway concept (robotic dermis layers)  
-   ![Dermis Cutaway](<INSERT-LINK-TO-IMAGE-LAYERED>)  
+   ![Dermis Cutaway](<file_00000000975861f8bbebc24a82e8a4e0.png>)  
 
 7. ✅ Hands: Robotic vs Dermis w/ Nails  
    ![Optimus Hands](<file_000000000d4c61f9aa7906703d301475.png>)  
