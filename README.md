@@ -25,7 +25,7 @@ We modeled the dermis system after the human integumentary system using educatio
 ![Human vs Optimus Dermis](<INSERT-LINK-TO-IMAGE-4>)  
 
 📷 "Optimus with Dermis" full-body 3D illustrations  
-![Optimus Male](<INSERT-LINK-TO-IMAGE-MALE>)  
+![Optimus Male](<file_000000002c5861f79a99c0b413fb516e (1).png>)  
 ![Optimus Female](<file_000000001d6061f786e4b64691dc6e36.png>)  
 
 📷 Mechanical layer concept cutaway  
@@ -104,7 +104,7 @@ The customizable outer layer enables customers to:
 
 ## 📎 Attached Visuals & References
 1. ✅ OPTIMUS WITH DERMIS – Humanlike Male Avatar  
-   ![Optimus Male](<INSERT-LINK-TO-IMAGE-MALE>)  
+   ![Optimus Male](<file_000000002c5861f79a99c0b413fb516e (1).png>)  
 
 2. ✅ OPTIMUS WITH DERMIS – Female Robot Avatar  
    ![Optimus Female](<file_000000001d6061f786e4b64691dc6e36.png>)  
