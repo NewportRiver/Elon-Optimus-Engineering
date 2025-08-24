@@ -22,7 +22,7 @@ We modeled the dermis system after the human integumentary system using educatio
 **Visual References:**
 
 📷 Human Skin vs Optimus Layered Dermis  
-![Human vs Optimus Dermis](<INSERT-LINK-TO-IMAGE-4>)  
+![Human vs Optimus Dermis](<file_00000000328862439d8805b007a5850c.png>)  
 
 📷 "Optimus with Dermis" full-body 3D illustrations  
 ![Optimus Male Skin](<file_000000002c5861f79a99c0b413fb516e (1).png>)  
